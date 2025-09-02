@@ -1,0 +1,13 @@
+{
+  "Tower Entrance": {
+    "starting": true,
+    "connects_to": [
+      "Fairy Forest"
+    ],
+    "requires": []
+  },
+  "Fairy Forest": {
+    "connects_to": [],
+    "requires": []
+  }
+}

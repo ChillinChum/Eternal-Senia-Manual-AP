@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Violet Sword Broken",
+    "region": "Tower Entrance",
+    "category": [
+      "Tower Entrance"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Two Handed Sword Pickup",
+    "region": "Tower Entrance",
+    "category": [
+      "Tower Entrance"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Violet Armor Broken",
+    "region": "Tower Entrance",
+    "category": [
+      "Tower Entrance"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Warrior Armor Chest",
+    "region": "Tower Entrance",
+    "category": [
+      "Tower Entrance"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Warrior Glove Chest",
+    "region": "Tower Entrance",
+    "category": [
+      "Tower Entrance"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Warrior Cape Chest",
+    "region": "Tower Entrance",
+    "category": [
+      "Tower Entrance"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Health Ring Chest",
+    "region": "Tower Entrance",
+    "category": [
+      "Tower Entrance"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Forest Chest #1",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest"
+    ],
+    "requires": "|Phantom Strike|"
+  },
+  {
+    "name": "Phantom Strike Tutorial",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Forest Chest #2 Near River",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest"
+    ],
+    "requires": "|Phantom Strike|"
+  },
+  {
+    "name": "Forest Chest #3 Pink Flower",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest"
+    ],
+    "requires": "|Splash Leap|"
+  },
+  {
+    "name": "Forest Tree North",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Forest Tree South",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Forest Chest #4 Outside Village",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest"
+    ],
+    "requires": "|Fine Wood:2|"
+  },
+  {
+    "name": "Forest Chest #5 Inside Village",
+    "category": [
+      "Fairy Forest"
+    ],
+    "requires": "|Fine Wood:2|"
+  },
+  {
+    "name": "Splash Leap Tutorial",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest"
+    ],
+    "requires": "|Fine Wood:2|"
+  },
+  {
+    "name": "Forest Arcane Rare Item Chest",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest"
+    ],
+    "requires": "|Fine Wood:2|"
+  },
+  {
+    "name": "Forest Chest #6 Near Boss",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest"
+    ],
+    "requires": "|Fine Wood:2|"
+  },
+  {
+    "name": "King Evil Flower",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest King"
+    ],
+    "requires": "|Fine Wood:2|"
+  },
+  {
+    "name": "King Sunny Mushroom",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest King"
+    ],
+    "requires": "|Fine Wood:2|"
+  },
+  {
+    "name": "King Snake",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest King"
+    ],
+    "requires": "|Fine Wood:2|"
+  },
+  {
+    "name": "King Green Dragon",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest King"
+    ],
+    "requires": "|Fine Wood:2|"
+  },
+  {
+    "name": "Forest Jack in the Box Reward",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest Friends"
+    ],
+    "requires": "|Fine Wood:2|"
+  },
+  {
+    "name": "Forest Slimey Bounty 1",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest Friends"
+    ],
+    "requires": "|Fine Wood:2|"
+  },
+  {
+    "name": "Forest Slimey Bounty 2",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest Friends"
+    ],
+    "requires": "|Fine Wood:2|"
+  },
+  {
+    "name": "Forest Slimey Bounty 3",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest Friends"
+    ],
+    "requires": "|Fine Wood:2|"
+  },
+  {
+    "name": "Forest Slimey Bounty 4",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest Friends"
+    ],
+    "requires": "|Fine Wood:2|"
+  },
+  {
+    "name": "Forest Legendary Sheep Reward",
+    "region": "Fairy Forest",
+    "category": [
+      "Fairy Forest Friends"
+    ],
+    "requires": "|Legendary Fairy Stone:4| AND |Fine Wood:2|"
+  },
+  {
+    "name": "End of Fairy Forest",
+    "region": "Fairy Forest",
+    "victory": true,
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Fine Wood:2|"
+  }
+]

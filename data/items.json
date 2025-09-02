@@ -1,0 +1,138 @@
+[
+  {
+    "count": 1,
+    "name": "Broken Sword",
+    "category": [
+      "Useless for now"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Two Handed-Sword",
+    "category": [
+      "Sword"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Broken Armor",
+    "category": [
+      "Useless for now"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Warrior Armor",
+    "category": [
+      "Armor"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warrior Glove",
+    "category": [
+      "Armor"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Warrior Cape",
+    "category": [
+      "Armor"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Health Ring",
+    "category": [
+      "Accessory"
+    ],
+    "useful": true
+  },
+  {
+    "count": "4",
+    "name": "Book of Defense 1",
+    "category": [
+      "Book"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Phantom Strike",
+    "category": [
+      "Phantom Strike"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Magic Elixir",
+    "category": [
+      "Elixir"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Fine Wood",
+    "category": [
+      "Fine Wood"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Splash Leap",
+    "category": [
+      "Splash Leap"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Magic Bracelet",
+    "category": [
+      "Accessory"
+    ],
+    "useful": true
+  },
+  {
+    "count": "4",
+    "name": "Legendary Fairy Stone",
+    "category": [
+      "Legendary Stones"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Violet Crystal",
+    "category": [
+      "Useless for now"
+    ],
+    "filler": true
+  },
+  {
+    "count": "4",
+    "name": "Book of Evasion 1",
+    "category": [
+      "Book"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Master Badge",
+    "category": [
+      "Accessory"
+    ],
+    "useful": true
+  }
+]
